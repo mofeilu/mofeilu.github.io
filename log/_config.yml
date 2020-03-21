@@ -2,7 +2,7 @@
 title: Yang Lu blog
 email: 
 description: "Software Engineer"
-baseurl: "http://mofeilu.github.io/log"
+baseurl: ""
 url: "http://mofeilu.github.io/log"
 
 # Build settings
