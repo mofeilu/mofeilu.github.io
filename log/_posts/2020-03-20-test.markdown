@@ -1,4 +1,11 @@
-just test
+---
+layout: post
+comments: true
+title:  "test math equaution rendering"
+excerpt: "test the redenering of mathematical equations."
+date:   2020-03-20 17:52:00
+mathjax: true
+---
 $$
 \begin{align}
 \nabla_{\theta} E_x[f(x)] &= \nabla_{\theta} \sum_x p(x) f(x) & \text{definition of expectation} \\
