@@ -1,1 +1,16 @@
-theme: jekyll-theme-modernist
+# Site settings
+title: Yang Lu blog
+email: 
+description: "Software Engineer"
+baseurl: "http://mofeilu.github.io/log"
+url: "http://mofeilu.github.io/log"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+highlighter: rouge
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
