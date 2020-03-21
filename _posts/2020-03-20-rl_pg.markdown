@@ -1,0 +1,17 @@
+---
+layout: post
+comments: true
+title:  "Notes on policy graident method in RL"
+excerpt: "summarize the core idea of policy gradients in RL"
+date:   2020-03-20 11:00:00
+mathjax: true
+---
+
+<!-- 
+<svg width="800" height="200">
+	<rect width="800" height="200" style="fill:rgb(98,51,20)" />
+	<rect width="20" height="50" x="20" y="100" style="fill:rgb(189,106,53)" />
+	<rect width="20" height="50" x="760" y="30" style="fill:rgb(77,175,75)" />
+	<rect width="10" height="10" x="400" y="60" style="fill:rgb(225,229,224)" />
+</svg>
+ -->
